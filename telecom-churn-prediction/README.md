@@ -11,6 +11,6 @@
 - Достигнута метрика ROC-AUC 0.75
 - Выявлены ключевые факторы оттока: ежемесячные траты >79 ₽, месячный контракт
 
-[Ссылка на ноутбук в Colab]([https://drive.google.com/file/d/1xeDTWzBb1orBrDKM6-zWppo60wTuVP4L/view?usp=sharing])
+[Ссылка на ноутбук в Colab](https://drive.google.com/file/d/1xeDTWzBb1orBrDKM6-zWppo60wTuVP4L/view?usp=sharing)
 
 Исходные данные удалены в соответствии с условиями использования образовательной платформы.
